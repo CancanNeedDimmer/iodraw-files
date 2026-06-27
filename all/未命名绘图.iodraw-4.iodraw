@@ -104,6 +104,12 @@
             <mxPoint x="460" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="yAeuH4mXWyuoQvs6U2oT-22" value="网线" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="300" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yAeuH4mXWyuoQvs6U2oT-23" value="网线" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="370" y="310" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
