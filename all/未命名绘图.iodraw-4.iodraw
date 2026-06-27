@@ -94,8 +94,17 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="yAeuH4mXWyuoQvs6U2oT-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yAeuH4mXWyuoQvs6U2oT-19" value="电脑" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="420" width="84" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yAeuH4mXWyuoQvs6U2oT-20" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="500" y="330" as="sourcePoint" />
+            <mxPoint x="550" y="280" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="540" y="440" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
