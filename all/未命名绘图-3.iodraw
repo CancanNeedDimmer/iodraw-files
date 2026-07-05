@@ -32,19 +32,7 @@
           <mxGeometry x="560" y="435" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zjZ_hyHA4Wt4lIitgFRH-23" value="GPS L5" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="560" y="405" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="zjZ_hyHA4Wt4lIitgFRH-24" value="GALILEO E6,BDS B31I" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="560" y="375" width="140" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="zjZ_hyHA4Wt4lIitgFRH-25" value="GLONASS L2,GPS L2C" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="560" y="345" width="150" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="zjZ_hyHA4Wt4lIitgFRH-26" value="BDS B2I,GLONASS L3" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="560" y="315" width="140" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="zjZ_hyHA4Wt4lIitgFRH-27" value="GPS L5,GALILEO E5a" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="560" y="285" width="140" height="30" as="geometry" />
+          <mxGeometry x="560" y="405" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zjZ_hyHA4Wt4lIitgFRH-28" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="280" width="80" height="120" as="geometry" />
