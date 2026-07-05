@@ -157,10 +157,14 @@
         <mxCell id="zjZ_hyHA4Wt4lIitgFRH-47" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="870" y="395" width="20" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="zjZ_hyHA4Wt4lIitgFRH-48" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="zjZ_hyHA4Wt4lIitgFRH-48" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="zjZ_hyHA4Wt4lIitgFRH-45">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1030" y="500" as="sourcePoint" />
             <mxPoint x="1110" y="400" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="750" y="600" />
+              <mxPoint x="880" y="600" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
