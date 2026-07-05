@@ -65,9 +65,9 @@
           <mxGeometry x="560" y="345" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zjZ_hyHA4Wt4lIitgFRH-26" value="BDS B2I,GLONASS L3" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="560" y="315" width="60" height="30" as="geometry" />
+          <mxGeometry x="560" y="315" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zjZ_hyHA4Wt4lIitgFRH-27" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="zjZ_hyHA4Wt4lIitgFRH-27" value="GPS L5,GALILEO E5a" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="560" y="285" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
