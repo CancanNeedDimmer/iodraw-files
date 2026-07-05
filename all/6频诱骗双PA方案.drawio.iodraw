@@ -127,7 +127,7 @@
         <mxCell id="7LyHnyGzMWBPlg4VW5jU-2" value="6-band Spoofer dual PA scheme" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7LyHnyGzMWBPlg4VW5jU-3" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="7LyHnyGzMWBPlg4VW5jU-3" value="1176.45Mhz" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="680" y="405" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
