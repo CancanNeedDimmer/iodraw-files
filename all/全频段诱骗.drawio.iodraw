@@ -235,7 +235,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="JfxK5cuDXVRnGnAKLtuC-1" value="1598.0625 MHz ～ 1609.3125 MHz" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="850" y="465" width="110" height="30" as="geometry" />
+          <mxGeometry x="870" y="465" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JfxK5cuDXVRnGnAKLtuC-2" value="1598.0625 MHz ～ 1609.3125 MHz" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="870" y="435" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JfxK5cuDXVRnGnAKLtuC-3" value="1598.0625 MHz ～ 1609.3125 MHz" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="870" y="405" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JfxK5cuDXVRnGnAKLtuC-4" value="1598.0625 MHz ～ 1609.3125 MHz" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="900" y="495" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
