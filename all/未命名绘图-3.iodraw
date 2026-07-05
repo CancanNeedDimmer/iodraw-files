@@ -58,8 +58,8 @@
         <mxCell id="zjZ_hyHA4Wt4lIitgFRH-23" value="BDS B1I" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="560" y="405" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zjZ_hyHA4Wt4lIitgFRH-24" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="560" y="375" width="60" height="30" as="geometry" />
+        <mxCell id="zjZ_hyHA4Wt4lIitgFRH-24" value="GALILEO E6,BDS B31I" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="375" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zjZ_hyHA4Wt4lIitgFRH-25" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="560" y="345" width="60" height="30" as="geometry" />
