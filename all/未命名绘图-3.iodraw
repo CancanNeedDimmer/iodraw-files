@@ -53,9 +53,9 @@
           <mxGeometry x="560" y="465" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zjZ_hyHA4Wt4lIitgFRH-22" value="NAVIC L1,QZSS L1C,QZSS L1CA,GALILEO" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="560" y="435" width="120" height="30" as="geometry" />
+          <mxGeometry x="560" y="435" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zjZ_hyHA4Wt4lIitgFRH-23" value="BDS B1I" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="zjZ_hyHA4Wt4lIitgFRH-23" value="GPS L1C.GPS" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="560" y="405" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zjZ_hyHA4Wt4lIitgFRH-24" value="GALILEO E6,BDS B31I" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
