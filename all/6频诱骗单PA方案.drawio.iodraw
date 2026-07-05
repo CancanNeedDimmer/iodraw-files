@@ -98,8 +98,8 @@
         <mxCell id="zjZ_hyHA4Wt4lIitgFRH-50" value="GPS/BDS/GLONASS/GALILEO&lt;div&gt;Receiving Antenna&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="850" y="430" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fqBORsdi39LlAT9rT0Ab-2" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry width="60" height="30" as="geometry" />
+        <mxCell id="fqBORsdi39LlAT9rT0Ab-2" value="6-band Spoofer Scheme A" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
