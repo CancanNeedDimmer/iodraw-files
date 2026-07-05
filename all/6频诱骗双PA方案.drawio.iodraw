@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="7LyHnyGzMWBPlg4VW5jU-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry width="990" height="690" as="geometry" />
+          <mxGeometry width="1040" height="690" as="geometry" />
         </mxCell>
         <mxCell id="zjZ_hyHA4Wt4lIitgFRH-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="480" y="280" width="350" height="350" as="geometry" />
@@ -114,8 +114,8 @@
             <mxPoint x="1110" y="400" as="targetPoint" />
             <Array as="points">
               <mxPoint x="820" y="660" />
-              <mxPoint x="880" y="660" />
-              <mxPoint x="880" y="600" />
+              <mxPoint x="920" y="660" />
+              <mxPoint x="920" y="610" />
             </Array>
           </mxGeometry>
         </mxCell>
