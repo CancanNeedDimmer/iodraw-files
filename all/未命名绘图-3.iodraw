@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="QKWlVhIGsiL5qSMjTw0-">
-    <mxGraphModel dx="884" dy="391" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="513" dy="227" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -172,6 +172,42 @@
         </mxCell>
         <mxCell id="zjZ_hyHA4Wt4lIitgFRH-50" value="GPS/BDS/GLONASS/GALILEO&lt;div&gt;Receiving Antenna&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="930" y="325" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zjZ_hyHA4Wt4lIitgFRH-66" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="490" y="300" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zjZ_hyHA4Wt4lIitgFRH-67" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="490" y="330" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zjZ_hyHA4Wt4lIitgFRH-68" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="490" y="360" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zjZ_hyHA4Wt4lIitgFRH-69" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="490" y="390" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zjZ_hyHA4Wt4lIitgFRH-70" value="TX7" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="295" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zjZ_hyHA4Wt4lIitgFRH-71" value="TX6" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="317.5" width="60" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="zjZ_hyHA4Wt4lIitgFRH-72" value="TX5" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="355" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zjZ_hyHA4Wt4lIitgFRH-73" value="TX4" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="385" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zjZ_hyHA4Wt4lIitgFRH-74" value="GALILEO E6,BDS B31I" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="570" y="385" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zjZ_hyHA4Wt4lIitgFRH-75" value="GLONASS L2,GPS L2C" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="570" y="355" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zjZ_hyHA4Wt4lIitgFRH-76" value="BDS B2I,GLONASS L3" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="570" y="325" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zjZ_hyHA4Wt4lIitgFRH-77" value="GPS L5,GALILEO E5a" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="570" y="295" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
