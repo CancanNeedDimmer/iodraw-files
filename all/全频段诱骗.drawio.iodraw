@@ -270,8 +270,8 @@
         <mxCell id="JfxK5cuDXVRnGnAKLtuC-11" value="1196.91 MHz ~ 1217.37 MHz" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="870" y="255" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JfxK5cuDXVRnGnAKLtuC-13" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry width="60" height="30" as="geometry" />
+        <mxCell id="JfxK5cuDXVRnGnAKLtuC-13" value="Full band Spoofer" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
