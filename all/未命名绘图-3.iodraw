@@ -203,7 +203,7 @@
         <mxCell id="zjZ_hyHA4Wt4lIitgFRH-75" value="NAVIC L5,QZSS L5" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="560" y="225" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zjZ_hyHA4Wt4lIitgFRH-76" value="BDS B2I,GLONASS L3" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="zjZ_hyHA4Wt4lIitgFRH-76" value="GAL_E5a,GPS L5" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="560" y="195" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zjZ_hyHA4Wt4lIitgFRH-77" value="GPS L5,GALILEO E5a" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
