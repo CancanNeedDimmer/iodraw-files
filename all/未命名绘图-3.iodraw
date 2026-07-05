@@ -152,10 +152,10 @@
           <mxGeometry x="740" y="540" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="zjZ_hyHA4Wt4lIitgFRH-46" value="" style="shape=xor;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="850" y="455" width="60" height="80" as="geometry" />
+          <mxGeometry x="850" y="480" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="zjZ_hyHA4Wt4lIitgFRH-47" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="870" y="510" width="20" height="50" as="geometry" />
+          <mxGeometry x="870" y="535" width="20" height="50" as="geometry" />
         </mxCell>
         <mxCell id="zjZ_hyHA4Wt4lIitgFRH-48" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="zjZ_hyHA4Wt4lIitgFRH-45" target="zjZ_hyHA4Wt4lIitgFRH-47">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -171,7 +171,7 @@
           <mxGeometry x="680" y="535" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zjZ_hyHA4Wt4lIitgFRH-50" value="GPS/BDS/GLONASS/GALILEO&lt;div&gt;Receiving Antenna&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="850" y="430" width="60" height="30" as="geometry" />
+          <mxGeometry x="850" y="455" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zjZ_hyHA4Wt4lIitgFRH-51" value="PWR" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="730" y="280" width="30" height="30" as="geometry" />
@@ -183,7 +183,7 @@
           <mxGeometry x="730" y="360" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zjZ_hyHA4Wt4lIitgFRH-55" value="PWR" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="760" y="310" width="30" height="30" as="geometry" />
+          <mxGeometry x="730" y="400" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
