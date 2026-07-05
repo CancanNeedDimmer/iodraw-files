@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="fqBORsdi39LlAT9rT0Ab-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry width="120" height="60" as="geometry" />
+          <mxGeometry width="990" height="680" as="geometry" />
         </mxCell>
         <mxCell id="zjZ_hyHA4Wt4lIitgFRH-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="480" y="280" width="280" height="280" as="geometry" />
@@ -97,6 +97,9 @@
         </mxCell>
         <mxCell id="zjZ_hyHA4Wt4lIitgFRH-50" value="GPS/BDS/GLONASS/GALILEO&lt;div&gt;Receiving Antenna&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="850" y="430" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fqBORsdi39LlAT9rT0Ab-2" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
