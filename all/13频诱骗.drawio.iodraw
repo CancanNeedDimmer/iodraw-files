@@ -174,7 +174,7 @@
         <mxCell id="zjZ_hyHA4Wt4lIitgFRH-50" value="GPS/BDS/GLONASS/GALILEO&lt;div&gt;Receiving Antenna&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1010" y="450" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-I53h7Xy2iexQgGCJDrn-2" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="-I53h7Xy2iexQgGCJDrn-2" value="1575.42Mhz" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="720" y="465" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
