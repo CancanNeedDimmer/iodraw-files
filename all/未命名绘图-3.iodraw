@@ -167,8 +167,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="zjZ_hyHA4Wt4lIitgFRH-49" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="700" y="630" width="60" height="30" as="geometry" />
+        <mxCell id="zjZ_hyHA4Wt4lIitgFRH-49" value="Antenna" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="690" y="535" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
