@@ -29,7 +29,7 @@
           <mxGeometry x="490" y="465" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zjZ_hyHA4Wt4lIitgFRH-21" value="GPS L1C/A BDS B1I GAL E1 GLO L1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="560" y="465" width="130" height="30" as="geometry" />
+          <mxGeometry x="530" y="465" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zjZ_hyHA4Wt4lIitgFRH-22" value="GPS L2C" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="520" y="435" width="120" height="30" as="geometry" />
@@ -100,6 +100,9 @@
         </mxCell>
         <mxCell id="fqBORsdi39LlAT9rT0Ab-2" value="6-band Spoofer single PA scheme" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="41SisahL5JQA77utQQlM-1" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="950" y="330" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
