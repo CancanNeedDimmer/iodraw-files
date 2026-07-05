@@ -187,12 +187,6 @@
         <mxCell id="zjZ_hyHA4Wt4lIitgFRH-55" value="IO1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="730" y="400" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zjZ_hyHA4Wt4lIitgFRH-57" value="DC 20-28V" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="827" y="280" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="zjZ_hyHA4Wt4lIitgFRH-59" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1130" y="260" width="120" height="60" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
